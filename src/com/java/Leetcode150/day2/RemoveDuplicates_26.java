@@ -1,4 +1,4 @@
-package com.java.day2;
+package com.java.Leetcode150.day2;
 
 import java.util.Arrays;
 

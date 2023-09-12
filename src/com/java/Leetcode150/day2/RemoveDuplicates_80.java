@@ -1,6 +1,4 @@
-package com.java.day2;
-
-import java.util.Arrays;
+package com.java.Leetcode150.day2;
 
 public class RemoveDuplicates_80 {
     //    Example 1:

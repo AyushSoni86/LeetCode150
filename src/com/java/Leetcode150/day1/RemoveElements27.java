@@ -1,4 +1,4 @@
-package com.java.day1;
+package com.java.Leetcode150.day1;
 
 public class RemoveElements27 {
 

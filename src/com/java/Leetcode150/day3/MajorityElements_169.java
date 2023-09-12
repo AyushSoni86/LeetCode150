@@ -1,4 +1,4 @@
-package com.java.day3;
+package com.java.Leetcode150.day3;
 
 import java.util.HashMap;
 import java.util.Map;
